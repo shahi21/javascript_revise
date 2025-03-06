@@ -1,3 +1,6 @@
+//Testing for resolve
+
+
 // function fetchData(){
 //     return new Promise((resolve,reject)=>{
 //         setTimeout(()=>{
@@ -20,6 +23,7 @@
 //             });
 
 
+//Testing for reject
 function fetchData(){
     return new Promise((resolve,reject)=>{
         setTimeout(()=>{
