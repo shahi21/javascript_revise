@@ -23,7 +23,7 @@
 //             });
 
 
-//Testing for reject
+//Testing for rejectted
 function fetchData(){
     return new Promise((resolve,reject)=>{
         setTimeout(()=>{
